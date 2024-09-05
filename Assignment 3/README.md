@@ -32,3 +32,5 @@ This repository contains a Solidity smart contract for a lottery system. The con
 - **Constructor:**
   ```solidity
   constructor(uint _totalTickets, uint _pricePerTicket)
+Name = Dhaval Sharma 
+IU number = IU2141050204
